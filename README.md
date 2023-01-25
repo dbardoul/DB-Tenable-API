@@ -1,0 +1,1 @@
+This Python script will connect to a Tenable.sc API and delete rollover scans that match the specified scan name. It was used to clean up our Active Scans list which contained hundreds of rollover scans.
